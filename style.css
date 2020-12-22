@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.menu{
+    display: flex;
+    display: inline;
+    display: block;
+    margin-top: 20px;
+}
+.menu li{
+display: inline;
+padding: 20px 20px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+.menu p{
+    display: inline;
+    padding-left: 10em;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 
+}
+
+} */
+.menu p.line1{.
+    font-weight: bold;
+    font-size:23px;
+    
+}
+.menu line2{
+    font-size: 150px;
+    
+}
